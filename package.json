@@ -1,0 +1,24 @@
+{
+    "name": "student-staff-chat-app",
+    "version": "0.1.0",
+    "description": "Student Staff Chat App",
+    "main": "server.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vetripandi/student-staff-chat-app"
+    },
+    "author": "vetripandi",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/vetripandi/student-staff-chat/issues"
+    },
+    "homepage": "https://github.com/vetripandi/student-staff-chat",
+    "dependencies": {
+        "express": "~4.4.1",
+        "body-parser": "~1.3.0",
+        "method-override": "~2.0.1"
+    },
+    "scripts": {
+        "start": "node server.js"
+    }
+}
