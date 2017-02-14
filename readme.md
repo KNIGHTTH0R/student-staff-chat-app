@@ -13,7 +13,7 @@ You can try a hosted version of the app here: [http://student-staff.herokuapp.co
 1. Navigate to the ioconf directory
 
     ```
-    cd student-staff
+    cd student-staff-chat-app
     ```
     
 1. Install the server dependencies
@@ -33,6 +33,6 @@ You can try a hosted version of the app here: [http://student-staff.herokuapp.co
 
 ## Tutorial
 
-The tutorial link is: [http://www.vetbossel.in/student-staff-chat-system-facebook/](http://www.vetbossel.in/student-staff-chat-system-facebook/)
+The tutorial link is: http://www.vetbossel.in/student-staff-chat-application-ionic/](http://www.vetbossel.in/student-staff-chat-application-ionic/)
 
 
